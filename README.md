@@ -2,7 +2,7 @@
 
 - :man: I’m **JJohnarios** but you can call me John!
 - :greece: I’m currently living in Greece.
-- :bar_chart: I'm mostly interested in Data Science, Data Analytics and Machine Learning.
+- :bar_chart: I'm mostly interested in Data Science, Data Analytics, Machine Learning and Deep Learning.
 - :spades: I'm a huge fan of card games.
 
 ## :bulb: Technology Stack :bulb:
