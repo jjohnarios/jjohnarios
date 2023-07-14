@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-  </p>
-
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ClickHouse-FFCC01.svg?style=for-the-badge&logo=ClickHouse&logoColor=black"</p>
 
 
 <!---
